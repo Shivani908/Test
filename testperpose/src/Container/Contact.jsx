@@ -8,9 +8,9 @@ const Contact = () => {
             </h1>
           <input className="w-full border rounded-md px-6 py-3 text-lg mb-5" 
           type="email" placeholder="email@gmail.com" />
-            <button className="rounded-md text-md bg-gray-600 text-white py-2 px-5 hover:bg-gray-700 duration-200">
+            {/* <button className="rounded-md text-md bg-gray-600 text-white py-2 px-5 hover:bg-gray-700 duration-200">
                 SEND MAIL &nbsp; &#8594;
-            </button>
+            </button> */}
         </div>
     );
 };
