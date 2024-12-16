@@ -9,7 +9,7 @@ import Create from "./Container/Create";
 import About from "./Container/About";
 import Contact from "./Container/Contact";
 import Update from "./Container/Update";
-// import { useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { asyncgetwatchs } from "./store/actions/watchActions";
 
 const App = () => {
